@@ -1,3 +1,16 @@
+# Windows Android
+
+android/.gradle/*
+android/.idea/
+android/build/
+android/local.properties
+android/*.iml
+android/build.gradle
+
+
+
+
+
 # OSX
 #
 .DS_Store
